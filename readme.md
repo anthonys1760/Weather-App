@@ -1,6 +1,6 @@
 # Emerald Skies
 
-![Emearld Skies](weatherapp.png)
+![Emearld Skies](weatherappcrop.png)
 
 View Live Site: https://anthonys1760.github.io/Weather-App/
 
